@@ -49,7 +49,7 @@ leave plugin ON but turn OFF "enable theme"
 ![image](https://i.imgur.com/8cYLo3N.png)
 ![image](https://i.imgur.com/v3PqXhb.png)
 
-## gallery (lyrics only) (photos are with font addon enabled):
+## gallery (lyrics only):
 ![image](https://i.imgur.com/HAeLc9E.png) 
 ![image](https://i.imgur.com/5KD3Jj2.png)
 
