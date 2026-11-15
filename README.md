@@ -1,6 +1,8 @@
 ## Table of Contents:
-1. [Instructions](https://github.com/aya-zzz-zzz/cottoncandynights#instructions)
-2. [gallery](https://github.com/aya-zzz-zzz/cottoncandynights/blob/main/README.md#font-gallery) 
+1. [Instructions (full theme)](https://github.com/aya-zzz-zzz/cottoncandynights#instructions)
+2. [Instructions(lyrics only)](https://github.com/aya-zzz-zzz/cottoncandynights#instructions)
+3. [gallery(full theme)](https://github.com/aya-zzz-zzz/cottoncandynights/blob/main/README.md#font-gallery)
+4. [gallery(lyrics only)]
 
 ## Instructions:
 
