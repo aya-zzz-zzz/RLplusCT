@@ -18,7 +18,7 @@
 ![image](https://i.imgur.com/wxke59e.png)
 
 ## Radiant Lyrics Compatibility(full theme):
-here are the settings I recommend you use with recommended settings marked with an exclamation point, and actually important settings marked with two exclamation points. to access player bar tint settings click that setting's color box.
+here are the settings I recommend you use with recommended settings marked with important settings marked with an exclamation point. to access player bar tint settings click that setting's color box.
 ![image](https://i.imgur.com/fFqACcM.png)
 ![image](https://i.imgur.com/ybD96Yi.png)
 
@@ -37,7 +37,7 @@ leave plugin ON but turn OFF "enable theme"
 ![image](https://i.imgur.com/wxke59e.png)
 
 ## Radiant Lyrics Compatibility(lyrics only):
-here are the settings I recommend you use with recommended settings marked with an exclamation point, and actually important settings marked with two exclamation points. to access player bar tint settings click that setting's color box.
+here are the settings I recommend you use with recommended settings marked with important settings marked with an exclamation point. to access player bar tint settings click that setting's color box.
 ![image](https://i.imgur.com/5Iafpzd.png)
 
 ## Covertheme:
