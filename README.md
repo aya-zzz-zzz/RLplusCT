@@ -4,7 +4,7 @@
 3. [gallery(full theme)](https://github.com/aya-zzz-zzz/cottoncandynights/blob/main/README.md#font-gallery)
 4. [gallery(lyrics only)]
 
-## Instructions:
+## Instructions (full theme):
 
 0.  install [Tidaluna](https://github.com/Inrixia/TidaLuna) or [Tidalunar](https://github.com/Brskt/TidaLuna) and set tidal player background to "Color" in Display section of settings
 
@@ -36,6 +36,18 @@ here are the settings I recommend you use with recommended settings marked with 
 
 ![image](https://i.imgur.com/lqMhp4B.png)
 ![image](https://i.imgur.com/ybD96Yi.png)
+
+## Instructions (lyrics only):
+0.  install [Tidaluna](https://github.com/Inrixia/TidaLuna) or [Tidalunar](https://github.com/Brskt/TidaLuna) 
+1.  click lyrics only theme file
+![image](https://i.imgur.com/s0Dq4d4.png)
+2.  click Raw button on top-right
+![image](https://i.imgur.com/s0Dq4d4.png)
+3.   copy link to the raw file's page
+![image](https://i.imgur.com/s0Dq4d4.png)
+4.   paste link in THEMES section of Tidaluna settings
+![image](https://i.imgur.com/s0Dq4d4.png)
+
 
 ## gallery (photos are with font addon enabled):
 
