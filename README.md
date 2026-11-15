@@ -1,8 +1,10 @@
 ## Table of Contents:
-1. [Instructions (full theme)](https://github.com/aya-zzz-zzz/cottoncandynights#instructions)
-2. [Instructions(lyrics only)](https://github.com/aya-zzz-zzz/cottoncandynights#instructions)
-3. [gallery(full theme)](https://github.com/aya-zzz-zzz/cottoncandynights/blob/main/README.md#font-gallery)
-4. [gallery(lyrics only)]
+1. [Instructions (full theme)](https://github.com/aya-zzz-zzz/RLplusCT/blob/main/README.md#instructions-full-theme)
+2. [Instructions(lyrics only)](https://github.com/aya-zzz-zzz/RLplusCT/blob/main/README.md#instructions-lyrics-only)
+3. [gallery(full theme)](https://github.com/aya-zzz-zzz/RLplusCT/blob/main/README.md#gallery-full-theme-photos-are-with-font-addon-enabled)
+4. [gallery(lyrics only)](https://github.com/aya-zzz-zzz/RLplusCT/blob/main/README.md#gallery-lyrics-only-photos-are-with-font-addon-enabled)
+
+
 
 ## Instructions (full theme):
 0.  install [Tidaluna](https://github.com/Inrixia/TidaLuna) or [Tidalunar](https://github.com/Brskt/TidaLuna) and set tidal player background to "Color" in Display section of settings. install the plugins Radiant-Lyrics and Covertheme
