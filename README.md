@@ -5,35 +5,18 @@
 4. [gallery(lyrics only)]
 
 ## Instructions (full theme):
-
 0.  install [Tidaluna](https://github.com/Inrixia/TidaLuna) or [Tidalunar](https://github.com/Brskt/TidaLuna) and set tidal player background to "Color" in Display section of settings
-
-1.click the theme file for your OS
-
+1.  click lyrics only theme file
 ![image](https://i.imgur.com/s0Dq4d4.png)
-
-2. click Raw button on top-right
-
+2.  click Raw button on top-right
 ![image](https://i.imgur.com/4v3mQgL.png)
-
-3. copy link to the raw file's page
-
+3.   copy link to the raw file's page
 ![image](https://i.imgur.com/wqP0b3l.png)
-
-4. paste link in THEMES section of Tidaluna settings
-
+4.   paste link in THEMES section of Tidaluna settings
 ![image](https://i.imgur.com/wxke59e.png)
 
-5. repeat previous steps but using the colorway's file instead of the OS base file (found in "colorways" folder), and also, optionally, any addons & fonts you want installed
-
-![image](https://i.imgur.com/VPJJk7N.png)
-
-6. if both the base theme and the colorway's theme are switched to active everything should work. you can store multiple colorways and switch between them if you like.
-
-## Radiant Lyrics Compatibility:
-
+## Radiant Lyrics Compatibility(full theme):
 here are the settings I recommend you use with recommended settings marked with an exclamation point, and actually important settings marked with two exclamation points. to access player bar tint settings click that setting's color box.
-
 ![image](https://i.imgur.com/lqMhp4B.png)
 ![image](https://i.imgur.com/ybD96Yi.png)
 
@@ -42,18 +25,24 @@ here are the settings I recommend you use with recommended settings marked with 
 1.  click lyrics only theme file
 ![image](https://i.imgur.com/s0Dq4d4.png)
 2.  click Raw button on top-right
-![image](https://i.imgur.com/s0Dq4d4.png)
+![image](https://i.imgur.com/4v3mQgL.png)
 3.   copy link to the raw file's page
-![image](https://i.imgur.com/s0Dq4d4.png)
+![image](https://i.imgur.com/wqP0b3l.png)
 4.   paste link in THEMES section of Tidaluna settings
-![image](https://i.imgur.com/s0Dq4d4.png)
+![image](https://i.imgur.com/wxke59e.png)
 
+## Radiant Lyrics Compatibility(lyrics only):
+here are the settings I recommend you use with recommended settings marked with an exclamation point, and actually important settings marked with two exclamation points. to access player bar tint settings click that setting's color box.
+![image](https://i.imgur.com/lqMhp4B.png)
+![image](https://i.imgur.com/ybD96Yi.png)
 
-## gallery (photos are with font addon enabled):
-
+## gallery (full theme) (photos are with font addon enabled):
 ![image](https://i.imgur.com/TMZS9aW.png)
 ![image](https://i.imgur.com/DSGZCBN.png)
 
+## gallery (lyrics only) (photos are with font addon enabled):
+![image](https://i.imgur.com/TMZS9aW.png)
+![image](https://i.imgur.com/DSGZCBN.png)
 
 
 
