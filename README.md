@@ -7,7 +7,7 @@
 
 
 ## Instructions (full theme):
-0.  install [Tidaluna](https://github.com/Inrixia/TidaLuna) or [Tidalunar](https://github.com/Brskt/TidaLuna) and set tidal player background to "Color" in Display section of settings. install the plugins Radiant-Lyrics and Covertheme
+0.  install [Tidaluna](https://github.com/Inrixia/TidaLuna) or [Tidalunar](https://github.com/Brskt/TidaLuna) and set tidal player background to "Color" in Display section of settings. install the plugins Radiant-Lyrics and Covertheme. (font addon unfortunately not currently supported in most recent version of Lunar but it should work if you roll back to 0.0.19 <3)
 1.  click full theme file for your os
 ![image](https://i.imgur.com/vyK3NMk.png)
 2.  click Raw button on top-right
